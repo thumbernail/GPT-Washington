@@ -1,0 +1,10 @@
+/*!
+ * 1DS JS SDK POST plugin, 2.4.6
+ * Copyright (c) Microsoft and contributors. All rights reserved.
+ * (Microsoft Internal Only)
+ */
+
+/*!
+ * Microsoft Dynamic Proto Utility, 1.1.4
+ * Copyright (c) Microsoft and contributors. All rights reserved.
+ */
