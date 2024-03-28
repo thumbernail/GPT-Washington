@@ -10,8 +10,8 @@ import traceback
 
 from colorama import Fore, Style
 
-from autogpt.speech import say_text
-from autogpt.config import Config, Singleton
+from text import say_text
+from text import Config, Singleton
 
 CFG = Config()
 
@@ -200,10 +200,10 @@ logger = Logger()
 
 def print_assistant_thoughts(ai_name, assistant_reply):
     """Prints the assistant's thoughts to the console"""
-    from autogpt.json_fixes.bracket_termination import (
+    from text import (
         attempt_to_fix_json_by_finding_outermost_brackets,
     )
-    from autogpt.json_fixes.parsing import fix_and_parse_json
+    from text import fix_and_parse_json
 
     try:
         try:

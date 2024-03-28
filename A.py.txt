@@ -1,0 +1,901 @@
+
+
+
+
+from msilib.schema import Verb
+
+
+html
+BoldGrid  Framework Verb ion: 1.7.2 
+html lang="en-US" class='no-js'>
+	
+head>
+	meta charset="utf-8">
+	meta http-equiv="x-ua-compatible" content="ie=edge">
+	meta name="viewport" content="width=device-width, initial-scale=1">
+	title>National Bureau of Security and Defense | National Bureau of Security and Defense/title>
+meta name="description" content="WEBSITE COMING SOON JUST VISITING? If you are a looking for more information, please check back soon, our new site is on the way!..." />
+meta name="robots" content="index,follow" />
+link rel="canonical" href="security token" />
+meta property="og:locale" content="en_US" />
+meta property="og:type" content="website" />
+meta property="og:title" content="National Bureau of Security and Defense, National Bureau of Security and Defense" />
+meta property="og:description" content="WEBSITE COMING SOON JUST VISITING? If you are a looking for more information, please check back soon, our new site is on the way!..." />
+meta property="og:url" content="http://bureaudefense.com/" />
+meta property="og:site_name" content="National Bureau of Security and Defense" />
+link rel='dns-prefetch' href='//fonts.googleapis.com' />
+link rel='dns-prefetch' href='//s.w.org' />
+link rel="alternate" type="application/rss+xml" title="National Bureau of Security and Defense &raquo; Feed" href="http://bureaudefense.com/feed/" />
+link rel="alternate" type="application/rss+xml" title="National Bureau of Security and Defense &raquo; Comments Feed" href="http://bureaudefense.com/comments/feed/" />
+		script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/bureaudefense.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;ij.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		/script>
+		style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+/style>
+	link rel='stylesheet' id='wp-block-library-css'  href='http://bureaudefense.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+link rel='stylesheet' id='font-awesome-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/css/font-awesome/font-awesome.min.css?ver=4.7' type='text/css' media='all' />
+link rel='stylesheet' id='bootstrap-styles-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/css/bootstrap/bootstrap.min.css?ver=3.3.1' type='text/css' media='all' />
+link rel='stylesheet' id='boldgrid-theme-framework-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/css/boldgrid-theme-framework.min.css?ver=1.15.6' type='text/css' media='all' />
+link rel='stylesheet' id='bgtfw-smartmenus-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/css/smartmenus/sm-core-css.css?ver=1.15.6' type='text/css' media='all' />
+link rel='stylesheet' id='bgtfw-smartmenus-bootstrap-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/css/smartmenus/bootstrap/jquery.smartmenus.bootstrap.css?ver=1.15.6' type='text/css' media='all' />
+link rel='stylesheet' id='boldgrid-components-css'  href='http://bureaudefense.com/wp-content/plugins/post-and-page-builder/assets/css/components.min.css?ver=2.16.2' type='text/css' media='all' />
+link rel='stylesheet' id='boldgrid-buttons-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/css/buttons.css?ver=1574188624' type='text/css' media='all' />
+link rel='stylesheet' id='style-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/style.css' type='text/css' media='all' />
+style id='style-inline-css' type='text/css'>
+.bgtfw-edit-link a{background:rgb(255, 255, 255)!important;border:2px solid #1a1a1a!important;color:#1a1a1a!important;}.bgtfw-edit-link a:focus{-webkit-box-shadow: 0 0 0 2px #1a1a1a!important;box-shadow: 0 0 0 2px #1a1a1a!important;}.bgtfw-edit-link a svg{fill:#1a1a1a!important;
+/style>
+link rel='stylesheet' id='boldgrid-color-palettes-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/css/color-palettes.css?ver=1574188623' type='text/css' media='all' />
+link rel='stylesheet' id='kirki_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Julius+Sans+One%7COpen+Sans&#038;subset' type='text/css' media='all' />
+link rel='stylesheet' id='animatecss-css'  href='http://bureaudefense.com/wp-content/plugins/post-and-page-builder/assets/css/animate.min.css?ver=1.12.1' type='text/css' media='all' />
+link rel='stylesheet' id='kirki-styles-global-css'  href='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/includes/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+style id='kirki-styles-global-inline-css' type='text/css'>
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{font-family:"Julius Sans One", Helvetica, Arial, sans-serif;}h1, h2, h3, h4, h5, h6{text-transform:none;}h1.alt-font, h2.alt-font, h3.alt-font, h4.alt-font, h5.alt-font, h6.alt-font, .h1.alt-font, .h2.alt-font, .h3.alt-font, .h4.alt-font, .h5.alt-font, .h6.alt-font{font-family:"Open Sans", Helvetica, Arial, sans-serif;}h1.alt-font, h2.alt-font, h3.alt-font, h4.alt-font, h5.alt-font, h6.alt-font{text-transform:none;}.primary-menu ul li a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-size:14px;text-transform:uppercase;}.social-menu ul li a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-size:14px;text-transform:uppercase;}.secondary-menu ul li a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-size:14px;text-transform:uppercase;}.tertiary-menu ul li a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-size:14px;text-transform:uppercase;}.footer-center-menu ul li a{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-size:14px;text-transform:uppercase;}body, p, .site-content, .site-footer{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-size:14px;line-height:160%;}.site-title{font-family:"Julius Sans One", Helvetica, Arial, sans-serif;font-size:44px;text-transform:uppercase;margin-top:16px;margin-bottom:-20px;line-height:150%;letter-spacing:1px;}.site-title a{text-decoration:none;}.site-title a:hover{text-decoration:underline;}.site-title a:focus{text-decoration:underline;}.site-branding{margin-left:-50px;}.logo-site-title img{width:120px;}
+/style>
+link rel='stylesheet' id='bgpbpp-public-css'  href='http://bureaudefense.com/wp-content/plugins/post-and-page-builder-premium/dist/application.min.css?ver=1.0.4' type='text/css' media='all' />
+script type='text/javascript' src='http://bureaudefense.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'>/script>
+link rel='https://api.w.org/' href='http://bureaudefense.com/wp-json/' />
+link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bureaudefense.com/xmlrpc.php?rsd" />
+link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bureaudefense.com/wp-includes/wlwmanifest.xml" /> 
+meta name="generator" content="WordPress 5.2.7" />
+link rel='shortlink' href='http://bureaudefense.com/' />
+link rel="alternate" type="application/json+oembed" href="http://bureaudefense.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbureaudefense.com%2F" />
+link rel="alternate" type="text/xml+oembed" href="http://bureaudefense.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbureaudefense.com%2F&#038;format=xml" />
+style type="text/css" id="boldgrid-custom-css">/style>		style id="boldgrid-custom-fonts" type="text/css">
+		h1:not( .site-title ):not( .alt-font ), .h1{ font-size:52px; text-transform:none; font-family:Julius Sans One;}h2:not( .alt-font ), .h2{ font-size:43px; text-transform:none; font-family:Julius Sans One;}h3:not( .alt-font ):not( .site-description ), .h3{ font-size:34px; text-transform:none; font-family:Julius Sans One;}h4:not( .alt-font ), .h4{ font-size:25px; text-transform:none; font-family:Julius Sans One;}h5:not( .alt-font ), .h5{ font-size:20px; text-transform:none; font-family:Julius Sans One;}h6:not( .alt-font ), .h6{ font-size:17px; text-transform:none; font-family:Julius Sans One;}h1.alt-font, .h1.alt-font{ font-size:36px; text-transform:none; font-family:Open Sans;}h2.alt-font, .h2.alt-font{ font-size:30px; text-transform:none; font-family:Open Sans;}h3.alt-font, .h3.alt-font{ font-size:24px; text-transform:none; font-family:Open Sans;}h4.alt-font, .h4.alt-font{ font-size:18px; text-transform:none; font-family:Open Sans;}h5.alt-font, .h5.alt-font{ font-size:14px; text-transform:none; font-family:Open Sans;}h6.alt-font, .h6.alt-font{ font-size:12px; text-transform:none; font-family:Open Sans;}.bg-font-family-menu { font-family: Open Sans !important }.bg-font-family-body { font-family: Open Sans !important }.bg-font-family-alt { font-family: Open Sans !important }.bg-font-family-heading { font-family: Julius Sans One !important }			blockquote, blockquote p, .mod-blockquote { font-size: 17.5px; }
+		/style>
+		style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://bureaudefense.com/wp-content/uploads/2019/11/wedge-consulting-imhwpb-dnqcm8hz7bdv4xk.jpg"); background-position: left top; background-size: auto; background-repeat: no-repeat; background-attachment: fixed; }
+/style>
+	link rel="icon" href="http://bureaudefense.com/wp-content/uploads/2019/11/cropped-Untitled-3-20-3-32x32.jpg" sizes="32x32" />
+link rel="icon" href="http://bureaudefense.com/wp-content/uploads/2019/11/cropped-Untitled-3-20-3-192x192.jpg" sizes="192x192" />
+link rel="apple-touch-icon-precomposed" href="http://bureaudefense.com/wp-content/uploads/2019/11/cropped-Untitled-3-20-3-180x180.jpg" />
+meta name="msapplication-TileImage" content="http://bureaudefense.com/wp-content/uploads/2019/11/cropped-Untitled-3-20-3-270x270.jpg" />
+style id='boldgrid-override-styles' type='text/css'>body.custom-background { background-size:cover; }/style>/head>
+	body class="home page-template-default page page-id-10 custom-background boldgrid-ppb sticky-footer-enabled standard-menu-enabled bgtfw-edit-links-shown palette-primary">
+					div id="boldgrid-sticky-wrap">
+				div class="site-header">
+						
+header id="masthead" class="header" role="banner" >
+			div class='boldgrid-section'>
+					/div>
+		div class='boldgrid-section'>
+			div class="bgtfw container">
+				div class='row header-1'>
+					div class='col-md-12 header-1'>/div>
+				/div>
+				div class='row header-2 header-3 header-4'>
+					div class='col-md-4 header-2'>/div>
+					div class='col-md-4 header-3'>/div>
+					div class='col-md-4 header-4'>/div>
+				/div>
+				div class='row header-14 header-15'>
+					div class='col-md-9 header-14'>/div>
+					div class='col-md-3 header-15'>/div>
+				/div>
+				div class='row header-5'>
+					div class='col-md-12 header-5'>/div>
+				/div>
+				div class='row header-6 header-7'>
+					div class='col-md-6 header-6'>		div class="site-branding">
+					div class="site-title">
+			a class='logo-site-title' href="http://bureaudefense.com/"  rel="home">
+				img  src="http://bureaudefense.com/wp-content/uploads/2019/11/Untitled-3-20-e1574654670524.png" width="480" height="480" />
+			/a>
+		/div>
+					h3 class="site-description site-description invisible">/h3>		/div>!-- .site-branding 
+		/div>
+					div class='col-md-6 header-7'>/div>
+				/div>
+				div class='row header-8'>
+					div class='col-md-12 header-8'>/div>
+				/div>
+				div class='row header-9 header-10'>
+					div class='col-md-6 header-9'>/div>
+					div class='col-md-6 header-10'>/div>
+				/div>
+				div class='row header-11'>
+					div class='col-md-12 header-11'>			nav id="site-navigation" class="navbar navbar-default" role="navigation">
+				div class="navbar-header">
+					button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-navbar">
+						span class="sr-only">Toggle navigation/span>
+						span class="icon-bar">/span>
+						span class="icon-bar">/span>
+						span class="icon-bar">/span>
+					/button>
+				/div>!-- .navbar-header 
+				div id="primary-navbar" class="collapse navbar-collapse primary-menu">ul id="menu-website-coming-soon" class="nav navbar-nav">li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28">a href="http://bureaudefense.com/contact-us/">Contact Us/a>/li>
+/ul>/div>							/nav>!-- #site-navigation 
+			/div>
+				/div>
+			/div>!-- .container 
+		/div>!-- .section 
+		div class='boldgrid-section'>
+					/div>
+	/header>!-- #masthead 
+		/div>!-- /.header 
+								div id="content" class="site-content" role="document">
+			main class="main ">
+				div class="row">
+					div class="">
+						article id="post-10" class="post-10 page type-page status-publish">
+		header class="entry-header">
+		
+div class="bgtfw container">
+				h1 class="entry-title">a href="http://bureaudefense.com/" rel="bookmark">National Bureau of Security and Defense/a>/h1>			/div>
+	/header>!-- .entry-header 
+		div class="entry-content">
+		div class="bgtfw ">
+			div class="boldgrid-section">
+div class="container">
+div class="row">
+div class="col-md-5 col-xs-12 col-sm-12">
+h2 class="title-main">WEBSITE COMING SOON/h2>
+h2 class="">JUST VISITING?/h2>
+p class="">If you are a looking for more information, please check back soon, our new site is on the way!/p>
+p class="">&nbsp;/p>
+/div>
+div class="col-md-7 col-xs-12 col-sm-12">
+p class="">img class="alignnone wp-image-81 size-medium" src="http://bureaudefense.com/wp-content/uploads/2019/11/654_0_800.100671141_904_6-s4I1xpX_ny8.jpg" alt="" width="800" height="904">/p>
+/div>
+/div>
+/div>
+/div>
+					/div>!-- .bgtfw container 
+	/div>!-- .entry-content 
+	footer class="entry-footer">
+		
+div class="bgtfw container">
+	/div>
+	/footer>!-- .entry-footer 
+/article>!-- #post-## 
+					/div>
+									/div>
+			/main>!-- /.main 
+		/div>!-- /.content 
+								div id="boldgrid-sticky-filler">/div>
+				div id="boldgrid-sticky-push">/div>
+			/div>!-- End of #boldgrid-sticky-wrap 
+				div class="site-footer">
+						
+footer id="colophon" role="contentinfo" >
+			div class='boldgrid-section'>
+			div class="bgtfw container">
+				div class='row footer-1'>
+					div class='col-md-12 footer-1'>/div>
+				/div>
+				div class='row footer-2 footer-3 footer-4'>
+					div class='col-md-4 footer-2'>/div>
+					div class='col-md-4 footer-3'>/div>
+					div class='col-md-4 footer-4'>/div>
+				/div>
+				div class='row footer-5'>
+					div class='col-md-12 footer-5'>/div>
+				/div>
+				div class='row footer-6 footer-7'>
+					div class='col-md-7 footer-6'>/div>
+					div class='col-md-5 footer-7'>/div>
+				/div>
+				div class='row footer-8'>
+					div class='col-md-12 footer-8'>
+		span class="attribution-theme-mods">span class="link boldgrid-attribution-link">Built with a href="http://boldgrid.com/" rel="nofollow" target="_blank">BoldGrid/a>/span>span class="link wordpress-attribution-link">Powered by a href="https://wordpress.org/" rel="nofollow" target="_blank">WordPress/a>/span>span class="link partner-attribution-link">Support from a href="https://www.inmotionhosting.com/" rel="nofollow" target="_blank">InMotion Hosting/a>/span>span class="link special-thanks-attribution-link">a href="http://bureaudefense.com/attribution/">Special Thanks/a>/span>/span>
+		/div>
+				/div>
+				div class='row footer-9 footer-10'>
+					div class='col-md-6 footer-9'>/div>
+					div class='col-md-6 footer-10'>/div>
+				/div>
+				div class='row footer-11'>
+					div class='col-md-12 footer-11'>/div>
+				/div>
+			/div>!-- .container 
+		/div>!-- .section 
+	/footer>!-- #colophon 
+			style id='boldgrid-locations' type='text/css'>.row.header-2 { display:none; }.row.header-14 { display:none; }.row.header-8 { display:none; }.row.header-9 { display:none; }.row.footer-2 { display:none; }.row.footer-6 { display:none; }.row.footer-9 { display:none; }.row.footer-11 { display:none; }/style>script type="text/javascript" id="boldgrid-custom-js">/script>script type='text/javascript' src='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/js/boldgrid-bootstrap-shim.min.js?ver=1.15.6'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/js/bootstrap/bootstrap.min.js?ver=3.3.6'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/js/smartmenus/jquery.smartmenus.min.js?ver=1.4'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/js/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.min.js?ver=1.4'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/js/front-end.min.js?ver=1.15.6'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/themes/boldgrid-wedge/inc/boldgrid-theme-framework/assets/js/modernizr.min.js?ver=1.15.6'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/plugins/post-and-page-builder/assets/js/jquery-stellar/jquery.stellar.js?ver=1.12.1'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/plugins/post-and-page-builder/assets/dist/public.min.js?ver=1.12.1'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-content/plugins/post-and-page-builder-premium/dist/application.min.js?ver=1.0.4'>/script>
+script type='text/javascript' src='http://bureaudefense.com/wp-includes/js/wp-embed.min.js?ver=5.2.7'>/script>
+		/div>
+			/body>
+/html>
+!DOCTYPE html>
+
+html>
+head>meta http-equiv="Content-Type" content="text/html; charset=utf-8" />meta name="keyword" content="Ministry Of National Defense R.O.C" />meta name="description" content="Ministry Of National Defense R.O.C" />meta name="author" content="Ministry Of National Defense R.O.C" />meta name="viewport" content="width=device-width, initial-scale=1.0" />meta http-equiv="X-UA-Compatible" content="ie=edge" />title>
+	Ministry Of National Defense R.O.C-Default
+/title>link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />link rel="stylesheet" href="css/bootstrap3.3.7.css" />link rel="stylesheet" href="css/font-awesome.min.css" />link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&amp;display=swap" rel="stylesheet" />link rel="stylesheet" href="css/flickity-docs.css" />link rel="stylesheet" href="css/main.css" />link rel="stylesheet" href="css/en-main.css" />link rel="stylesheet" href="css/page.css" />link rel="stylesheet" href="css/page_table.css" />link rel="stylesheet" href="css/1090521fixed-Eng.css" />
+/head>
+body>
+    form name="aspnetForm" method="post" action="./Default.aspx" id="aspnetForm">
+div>
+input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+/div>
+
+div>
+
+	input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7D51119D" />
+	input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="xXEwRvmnQt6j2VHmyLtBHnrz5UDhqwCnU2NmCwT+hosUO1TsNCCR5LyWpJ9DYNt5xVX6iKktQBCvV+yHkdQ61lS0Zh5zN55CUT1ixhDyUXzlAu9seccHY0MII8ueUIZRdvDDF5aOKq/g3M8pdlO28zbuD4TPlXnEfTsM5w==" />
+/div>
+        div class="container-fluid enlish-container-fluid">
+            header>
+                nav class="navbar navbar-default">
+                    div class="container-box">
+                        div class="navbar-header">
+                            button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                span class="sr-only">/span>
+                                span class="icon-bar">/span>
+                                span class="icon-bar">/span>
+                                span class="icon-bar">/span>
+                            /button>
+                            a class="navbar-brand" href="\English">
+                                img src="img/en-logo.png" alt="">
+                            /a>
+                        /div>
+
+                        div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            ul class="nav navbar-nav navbar-right">
+                                li class="dropdown">
+                                    a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About MND/a>
+                                    ul class="dropdown-menu">
+                                        li>
+                                            a href="Publish.aspx?p=74731&title=About MND&SelectStyle=Ministry Of National Defense" title="Ministry Of National Defense">Ministry Of National Defense/a>
+                                        /li>
+                                        li>
+                                            a href="Publish.aspx?p=64109&title=About MND&SelectStyle=Words from the Minister" title="Words from the Minister">Words from the Minister/a>
+                                        /li>
+                                    /ul>
+                                /li>
+                                li class="dropdown">
+                                    a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News Channel/a>
+                                    ul class="dropdown-menu">
+                                        li>
+                                            a href="https://mna.gpwb.gov.tw/list.php?id=1&en" title=" Military News[New window]" target="_blank">Military News/a>
+                                        /li>
+                                        li>
+                                            a href="PublishTable.aspx?types=Defense News&Title=News Channel" title="Defense News">Defense News/a>
+                                        /li>
+                                    /ul>
+                                /li>
+                                li class="dropdown">
+                                    a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Important Policy/a>
+                                    ul class="dropdown-menu">
+                                        li>
+                                            a href="PublishTable.aspx?types=Important policy&title=Recruitment System&uid=1" title="Recruitment System">Recruitment System/a>
+                                        /li>
+                                    /ul>
+                                /li>
+                                li class="dropdown">
+                                    a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Service/a>
+                                    ul class="dropdown-menu">
+                                        li>
+                                            a href="https://rdrc.mnd.gov.tw/en" target="_blank" title="Recruiting">Recruiting/a>
+                                        /li>
+                                        li>
+                                            a href="Publish.aspx?p=76422&title=Service&SelectStyle=Medical Service" title="Medical Service">Medical Service/a>
+                                        /li>
+                                        li>
+                                            a href="https://afrc.mnd.gov.tw/afrcweb_en/" target="_blank" title="Burial Calendar">Burial Calendar/a>
+                                        /li>
+                                        li>
+                                            a href="https://museum.mnd.gov.tw/ArmedForcesMuseum2017/En/" target="_blank" title="Armed Forces Museum">Armed Forces Museum/a>
+                                        /li>
+                                    /ul>
+                                /li>
+                                li class="dropdown">
+                                    a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Military Publication/a>
+                                    ul class="dropdown-menu">
+                                        li>
+                                            a href="Glossary.aspx?title=Military Publication&SelectStyle=Bilingual Glossary" title="Bilingual Glossary">Bilingual Glossary/a>
+                                            
+                                        /li>
+                                    /ul>
+                                /li>
+                                li class="dropdown">
+                                    a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Related Links/a>
+                                    ul class="dropdown-menu">
+                                        li>
+                                            a href="PublishIframe.aspx?types=Military unit link&title=Related Links&SelectStyle=Military unit link" title="Military Unit Links">Military Unit Links/a>
+                                        /li>
+                                        li>
+                                            a href="PublishIframe.aspx?types=Defense Related Organization&title=Related Links&SelectStyle=Defense Related Organization" title="Defense Related Organization">Defense Related Organization/a>
+                                        /li>
+                                        li>
+                                            a href="https://gazette.nat.gov.tw/egFront/indexEng.do" target="_blank" title="The Executive Yuan Gazette Online">The Executive Yuan Gazette Online/a>
+                                        /li>
+                                        li>
+                                            a href="publishiframe.aspx?types=English Database Platform&title=Related Links" class="lastli" title="English Database Platform">English Database Platform/a>
+                                        /li>
+                                    /ul>
+                                /li>
+                            /ul>
+                            div class="topOfBaand">
+                                div class="rightArea">
+                                    ul>
+                                        li>:::/li>
+                                        li>
+                                            a href="WebSiteMap.aspx">WebSiteMap/a>
+                                        /li>
+                                        li>
+                                            a href="/">Chinese/a>
+                                        /li>
+                                        li>
+                                            a href="English/">Home/a>
+                                        /li>
+                                        li class="font-size">
+                                            a href="javascript:;">font-size:/a>
+                                            a href="javascript:;" class="fontControl small fontS">S/a>
+                                            a href="javascript:;" class="fontControl medium fontM in">M/a>
+                                            a href="javascript:;" class="fontControl large fontL">L/a>
+                                        /li>
+                                    /ul>
+                                    ul class="sercharea">
+                                        li>
+                                            input type="text" name="TbSearch2" >
+                                            input type="submit" name="ctl00$Button2" value="search" id="ctl00_Button2" class="Search_btn" />
+                                        /li>
+                                        li class="popsearch">
+                                            a href="javascript:;">Popular search:/a>
+                                            a href="PublishIframe.aspx?Types=search&KeyWord=Defense News" title="Defense News">Defense News、/a>
+                                            a href="PublishIframe.aspx?Types=search&KeyWord=About MND" title="About MND">About MND、/a>
+                                            a href="PublishIframe.aspx?Types=search&KeyWord=Military News" title="Military News">Military News、/a>
+                                            a href="PublishIframe.aspx?Types=search&KeyWord=HOT News" title="HOT News">HOT News、/a>
+                                            a href="PublishIframe.aspx?Types=search&KeyWord=Army" title="Army">Army/a>
+                                        /li>
+                                    /ul>
+                                /div>
+                            /div>
+                        /div>
+                        !-- /.navbar-collapse 
+                    /div>
+                /nav>
+            /header>
+            div class="mobile-search">
+                input type="text" name="TbSearch" />
+                input type="submit" name="ctl00$Button100" value="search" id="ctl00_Button100" />
+            /div>
+            !-- ====== 以上header ======================================== 
+
+            
+
+    div class="banner">
+        div class="main-carousel">
+            div class="carousel-cell">
+                div class="deco">
+                    img src="img/banner1.jpg" alt="">
+                    
+                    div class="limit-left">
+                        div class="green">/div>
+                    /div>
+                    div class="limit-right">
+                        div class="green">/div>
+                    /div>
+
+                /div>
+            /div>
+            div class="carousel-cell">
+                div class="deco">
+                    img src="img/banner2.jpg" alt="">
+                    
+                    div class="limit-left">
+                        div class="green">/div>
+                    /div>
+                    div class="limit-right">
+                        div class="green">/div>
+                    /div>
+
+                /div>
+            /div>
+            div class="carousel-cell">
+                div class="deco">
+                    img src="img/banner3.jpg" alt="">
+                    
+                    div class="limit-left">
+                        div class="green">/div>
+                    /div>
+                    div class="limit-right">
+                        div class="green">/div>
+                    /div>
+
+                /div>
+            /div>
+            div class="carousel-cell">
+                div class="deco">
+                    img src="img/banner4.jpg" alt="">
+                    
+                    div class="limit-left">
+                        div class="green">/div>
+                    /div>
+                    div class="limit-right">
+                        div class="green">/div>
+                    /div>
+
+                /div>
+            /div>
+            div class="carousel-cell">
+                div class="deco">
+                    img src="img/banner5.jpg" alt="">
+                    
+                    div class="limit-left">
+                        div class="green">/div>
+                    /div>
+                    div class="limit-right">
+                        div class="green">/div>
+                    /div>
+
+                /div>
+            /div>
+            div class="carousel-cell">
+                div class="deco">
+                    img src="img/banner6.jpg" alt="">
+                    
+                    div class="limit-left">
+                        div class="green">/div>
+                    /div>
+                    div class="limit-right">
+                        div class="green">/div>
+                    /div>
+
+                /div>
+            /div>
+            div class="carousel-cell">
+                div class="deco">
+                    img src="img/banner7.jpg" alt="">
+                    
+                    div class="limit-left">
+                        div class="green">/div>
+                    /div>
+                    div class="limit-right">
+                        div class="green">/div>
+                    /div>
+
+                /div>
+            /div>
+        /div>
+    /div>
+    div class="clear">/div>
+    !-- ====== 以上banner ======================================== 
+    div class="news">
+        img class="news-deco" src="img/sec02_deco01-02.png" alt="">
+        div class="box960">
+            div class="title">Defense News/div>
+            div class="nd-news-box">
+                
+                
+                        div class="item">
+                            div class="words">
+                                span class="date">109/08/31/span>
+                                div class="title">
+                                    a href="Publish.aspx?title=Defense News&p=77388&SelectStyle=News Channel" title="" class="headline">The Ministry of National Defense issued a press release explaining that a US destroyer sailed through the Taiwan Strait./a>
+                                /div>
+                                div class="contant-word">
+                                    br />Ministry of National Defense Press Releasebr />
+
+br />August 31, 2020 1300 hours (GMT +8)br />
+
+br />The MND stated today (31) that a US destroyer sailed from north to south through the Taiwan Strait and then continued to travel south.br />
+
+br />The MND indicated that the US ship was carrying out regular navigation tasks through the Taiwan Strait. The Armed Forces applied joint intelligence, surveillance, and reconnaissance as a way to grasp relevant developments at sea and in airspace around our country, and all conditions were normal.br />
+
+                                /div>
+                            /div>
+                        /div>
+                    
+                        div class="item">
+                            div class="words">
+                                span class="date">109/08/31/span>
+                                div class="title">
+                                    a href="Publish.aspx?title=Defense News&p=77389&SelectStyle=News Channel" title="" class="headline">The Air Force Command issued a press release in response to media reports that "a U.S. military plane is suspected to have flown from Taiwan to Japan" /a>
+                                /div>
+                                div class="contant-word">
+                                    br />In response to media reports that &quot;a U.S. military plane is suspected to have flown from Taiwan to Japan&quot;, the Air Force Command seriously refuted today (31) that this is a fake story and totally inconsistent with the facts.br />
+
+br />The Air Force Command pointed out that fake reports released by CCP media do not foster peaceful developments on the two sides of the strait and can seriously undermine regional security and stability.br />
+
+br />The Air Force Command emphasized that the command fully understands and closely monitors conditions at sea and in airspace around the Taiwan Strait via joint intelligence recon and monitoring measures. As such, it can properly master and control the situations that arise and handle them through suitable dealing, so that our nationals can rest assured.br />
+
+                                /div>
+                            /div>
+                        /div>
+                    
+                div class="seemore">
+                    a href="PublishTable.aspx?types=Defense News&Title=News Channel">more/a>
+                /div>
+            /div>
+        /div>
+    /div>
+    !-- ====== 以上 國防消息 ======================================== 
+    div class="service en-about">
+        div class="box960">
+            div class="title">About MND/div>
+            div class="about-contant">
+                p>
+                    The ROC Constitution stipulates that the ROC national defense aims to defend the nation's security and safeguard world peace. Under this, the nation's defense concepts, military strategies, military buildup, and objectives are formulated
+                        to prevent conflict. The current international situation and changes to the possible threat to the ROC are also taken into consideration in the making of defense policies at the current stage. The basic objectives are "preventing
+                        war," "defending the homeland," and "countering terrorism and responding to contingencies." The higher strategic goal is "effective deterrence, resolute defense" with the establishment of a quality self-defensive force capable
+                        of counterattack. China, though calling for reunification, has never renounced the use of force against Taiwan. It has not only deployed an increasing number of ballistic missiles aimed at Taiwan but also staged large-scale military
+                        exercises with an overt saber-rattling intent The ROC Constitution stipulates that the ROC national defense aims to defend the nation's security and safeguard world peace. Under this, the nation's defense concepts, military strategies,
+                        military buildup, and objectives are formulated to prevent conflict. The current international situation and changes to the possible threat to the ROC are also taken into consideration in the making of defense policies at the current
+                        stage. The basic objectives are "preventing war," "defending the homeland," and "countering terrorism and responding to contingencies." The higher strategic goal is "effective deterrence, resolute defense" with the establishment
+                        of a quality self-defensive force capable of counterattack. China, though calling for reunification, has never renounced the use of force against Taiwan. It has not only deployed an increasing number of ballistic missiles aimed
+                        at Taiwan but also staged large-scale military exercises with an overt saber-rattling intent
+                /p>
+            /div>
+            div class="seemore">
+                a href="Publish.aspx?p=74731&title=About MND">more/a>
+            /div>
+        /div>
+    /div>
+    !-- ====== 以上 為民服務/關於國防部 ======================================== 
+    div class="policy en-minister">
+        div class="box960">
+            div class="title">Words from the Minister/div>
+            div class="minister-contant">
+                div class="imgbox">
+                    img src="img/en-leader.png" alt="">
+                /div>
+                div class="words">
+                    p>
+                        The various and complicated affairs of national defense are closely correlated with the safety of our people’s lives and properties. I, De-Fa, am honored to take over the office of Ministry of National Defense today, 26th of February,
+                            and I deeply feel that I have great responsibility. Thanks to the outstanding leadership of the former Minister Feng, all kinds of reforms of national defense have been well established. Moreover, our officers and soldiers
+                            are devoted to the government and strongly maintain at their position. Especially in the rescue work The various and complicated affairs of national defense are closely correlated with the safety of our people’s lives and properties.
+                            I, De-Fa, am honored to take over the office of Ministry of National Defense today, 26th of February, and I deeply feel that I have great responsibility. Thanks to the outstanding leadership of the former Minister Feng, all
+                            kinds of reforms of national defense have been well established. Moreover, our officers and soldiers are devoted to the government and strongly maintain at their position. Especially in the rescue work
+                    /p>
+                /div>
+            /div>
+            div class="seemore">
+                a href="Publish.aspx?p=64109&title=Words from the Minister">more/a>
+            /div>
+        /div>
+    /div>
+    !-- ====== 以上 重要政策/部長的話 ======================================== 
+    div class="photography en-military-news">
+        div class="titlebox">
+            div class="title">Military news/div>
+            img src="img/photography-deco.png" alt="background imgae, tank">
+        /div>
+        div class="gridbox">
+            div class="box960">
+                
+
+                a target='_blank' title='瑞濱臺東教育營成果發表　軍校生分享偏鄉傳愛 [NEW WINDOW]' href='https://mna.gpwb.gov.tw/post.php?id=11&amp;message=100534' class='itembox integrated col-lg-6 col-xs-12'>
+                    img src = 'https://mna.gpwb.gov.tw/image.php?id=313644' alt= '瑞濱臺東教育營成果發表　軍校生分享偏鄉傳愛'>
+                       div class='words01 white'>
+                        div class='inside'>
+                            瑞濱臺東教育營成果發表　軍校生分享偏鄉傳愛
+                                i class='fa fa-chevron-circle-down' aria-hidden='true'>/i>
+                        /div>
+                    /div>
+                /a>
+                !-- 1 
+                div class='itembox segmenttation col-lg-6 col-xs-12'>
+                    div class='item1'>
+                        a target='_blank' title='嚴部長視導東部駐軍　期許官兵堅守崗位善盡保家衛國職責 [NEW WINDOW]' href = 'https://mna.gpwb.gov.tw/post.php?id=9&amp;message=100532' class='nextimg'>
+                            div class='words02 white'>
+                                div class='inside'>
+                                    嚴部長視導東部駐軍　期許官兵堅守崗位善盡保家衛國職責
+                                        i class='fa fa-chevron-circle-down' aria-hidden='true'>/i>
+                                /div>
+                            /div>
+                        /a>
+                        div class='imgbox'>
+                            img src = 'https://mna.gpwb.gov.tw/image.php?id=313630' alt='嚴部長視導東部駐軍　期許官兵堅守崗位善盡保家衛國職責'>
+                        /div>
+                    /div>
+                    div class='item2'>
+                        div class='imgbox'>
+                            img src = 'https://mna.gpwb.gov.tw/image.php?id=313612' alt='文藝金像獎西畫及設計類初評　嚴選優質作品'>
+                        /div>
+                        a target='_blank' title='文藝金像獎西畫及設計類初評　嚴選優質作品 [NEW WINDOW]' href = 'https://mna.gpwb.gov.tw/post.php?id=10&amp;message=100531' class='nextimg'>
+                            div class='words03 dark'>
+                                div class='inside'>
+                                    文藝金像獎西畫及設計類初評　嚴選優質作品
+                                        i class='fa fa-chevron-circle-down' aria-hidden='true'>/i>
+                                /div>
+                            /div>
+                        /a>
+                    /div>
+                /div>
+                !-- 2 
+                div class='clear'>/div>
+                div class='itembox segmenttation col-lg-6 col-xs-12'>
+                    div class='item1'>
+                        a target='_blank' title='軍備局生製中心「肅貪防弊」講座　強化採購紀律與法紀觀念 [NEW WINDOW]' href = 'https://mna.gpwb.gov.tw/post.php?id=13&amp;message=100530' class='nextimg'>
+                            div class='words04 white'>
+                                div class='inside'>
+                                    軍備局生製中心「肅貪防弊」講座　強化採購紀律與法紀觀念
+                                        i class='fa fa-chevron-circle-down' aria-hidden='true'>/i>
+                                /div>
+                            /div>
+                        /a>
+                        div class='imgbox'>
+                            img src = 'https://mna.gpwb.gov.tw/image.php?id=313608' alt='軍備局生製中心「肅貪防弊」講座　強化採購紀律與法紀觀念'>
+                        /div>
+                    /div>
+                    div class='item2'>
+                        div class='imgbox'>
+                            img src = 'https://mna.gpwb.gov.tw/image.php?id=313595' alt='公益捐贈'>
+                        /div>
+                        a target='_blank' title='公益捐贈 [NEW WINDOW]' href = 'https://mna.gpwb.gov.tw/post.php?id=13&amp;message=100529' class='nextimg'>
+                            div class='words05 dark'>
+                                div class='inside'>
+                                    公益捐贈
+                                        i class='fa fa-chevron-circle-down' aria-hidden='true'>/i>
+                                /div>
+                            /div>
+                        /a>
+                    /div>
+                /div>
+                !-- 3 
+                a target='_blank' title='示範樂隊《爵示瑛感》音樂會　10月22日松菸登場 [NEW WINDOW]' href = 'https://mna.gpwb.gov.tw/post.php?id=13&amp;message=100508' class='itembox integrated col-lg-6 col-xs-12'>
+                    img src = 'https://mna.gpwb.gov.tw/image.php?id=313585' alt='示範樂隊《爵示瑛感》音樂會　10月22日松菸登場'>
+                    div class='words06 white'>
+                        div class='inside'>
+                            示範樂隊《爵示瑛感》音樂會　10月22日松菸登場
+                                i class='fa fa-chevron-circle-down' aria-hidden='true'>/i>
+                        /div>
+                    /div>
+                /a>
+                div class='clear'>/div>
+            
+            /div>
+        /div>
+    /div>
+    !-- ====== 以上 國軍輯影 ======================================== 
+    div class="unitlink en-unitlink">
+        div class="box960">
+            div class="title">Military unit link/div>
+            div class="unit-carousel">
+                div class="carousel-cell">
+                    a href="https://army.mnd.gov.tw/EN/index.aspx" title="Army Command Headquarters,MND [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list01.jpg" alt="Army Command Headquarters,MND" class="responsive_img" />Army Command Headquarters,MND
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://navy.mnd.gov.tw/en/index.aspx" title="Navy Command R.O.C [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list02.jpg" alt="Navy Command R.O.C" class="responsive_img" />Navy Command R.O.C
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://air.mnd.gov.tw/EN/Home/index.aspx" title="PEPUBLE OF CHINA AIR FORCE [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list03.jpg" alt="PEPUBLE OF CHINA AIR FORCE" class="responsive_img" />PEPUBLE OF CHINA AIR FORCE
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://afrc.mnd.gov.tw/AfrcWeb/index_en.aspx" title="Armed Forces Reserve Command [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list04.jpg" alt="Armed Forces Reserve Command" class="responsive_img" />Armed Forces Reserve Command
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://afpc.mnd.gov.tw/en/index.aspx" title="Military Police Command [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list05.jpg" alt="Military Police Command" class="responsive_img" />Military Police Command
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://www.ndu.edu.tw/bin/home.php" title="National Defense University [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list06.jpg" alt="National Defense University " class="responsive_img" />National Defense University
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://gpwd.mnd.gov.tw/english/Default.aspx" title="Political Warfare Bureau, M.N.D. [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list07.jpg" alt="Political Warfare Bureau, M.N.D." class="responsive_img" />Political Warfare Bureau, M.N.D.
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://mab.mnd.gov.tw/EngDefault.aspx" title="Medical Affairs Bureau Ministry of National Defense [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list08.jpg" alt="Medical Affairs Bureau Ministry of National Defense" class="responsive_img" />Medical Affairs Bureau Ministry of National Defense
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="https://drive.google.com/file/d/1ZuJTgfC9V9MJvAcS3i2ptdZP7uTOZUn5/view" title="All-out Defense Mobilization [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list09.jpg" alt="All-out Defense Mobilization" class="responsive_img" />All-out Defense Mobilization
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="http://www.cga.gov.tw/GipOpen/wSite/mp?mp=999" title="Coast Guard Administration. Ocean Affairs Council [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list10.jpg" alt="Coast Guard Administration. Ocean Affairs Council" class="responsive_img" />Coast Guard Administration. Ocean Affairs Council
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="http://www.nca.gov.tw/" title="NATIONAL CONSCRIPTION AGENCY MINISTRY OF THE INTERIOR [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list11.jpg" alt="NATIONAL CONSCRIPTION AGENCY MINISTRY OF THE INTERIOR" class="responsive_img" />NATIONAL CONSCRIPTION AGENCY MINISTRY OF THE INTERIOR
+                    /a>
+                /div>
+                div class="carousel-cell">
+                    a href="http://www.nasc.gov.tw/?AspxAutoDetectCookieSupport=1" title="NATIONAL AIRBORNE SERVICE CORPS,MINISTRY OF THE INTERIOR [NEW WINDOW]" target="_blank">
+                        img src="img/logo/list12.jpg" alt="NATIONAL AIRBORNE SERVICE CORPS,MINISTRY OF THE INTERIOR" class="responsive_img" />NATIONAL AIRBORNE SERVICE CORPS,MINISTRY OF THE INTERIOR
+                    /a>
+                /div>
+            /div>
+        /div>
+    /div>
+    !-- ====== 以上 軍事單位連結@PING>readme.READEME ======================================== 
+
+
+
+            div class="bottompicture">
+                img src="img/bottom-bg.png" alt="">
+            /div>
+            div class="openfatfooter">
+                div class="open-btn">
+                    img src="img/en-fatfooter.png" alt="">
+                /div>
+            /div>
+
+            !-- ============ 開闔 ======== 
+            div class="fatfooter en-fatfooter">
+                div class="box960">
+                    ul class="contant-ul">
+                        li>
+                            div class="title">About MND/div>
+                            ul class="ul-links">
+                                li>
+                                    a href="Publish.aspx?p=74731&title=About MND&SelectStyle=Ministry Of National Defense" title="Ministry Of National Defense">Ministry Of National Defense/a>
+                                /li>
+                                li>
+                                    a href="Publish.aspx?p=64109&title=About MND&SelectStyle=Words from the Minister" title="Words from the Minister">Words from the Minister/a>
+                                /li>
+                            /ul>
+                        /li>
+                        li>
+                            div class="title">News Channel/div>
+                            ul class="ul-links">
+                                li>
+                                    a href="https://mna.gpwb.gov.tw/list.php?id=1&en" title=" Military News[New window]" target="_blank">Military News/a>
+                                /li>
+                                li>
+                                    a href="PublishTable.aspx?types=Defense News&Title=News Channel" title="Defense News">Defense News/a>
+                                /li>
+                            /ul>
+                        /li>
+                        li>
+                            div class="title">Important Policy/div>
+                            ul class="ul-links">
+                                li>
+                                    a href="PublishTable.aspx?types=Important policy&title=Recruitment System&uid=1" title="Recruitment System">Recruitment System/a>
+                                /li>
+                            /ul>
+                        /li>
+                        li>
+                            div class="title">Service/div>
+                            ul class="ul-links">
+                                li>
+                                    a href="https://rdrc.mnd.gov.tw/en" target="_blank" title="Recruiting">Recruiting/a>
+                                /li>
+                                li>
+                                    a href="Publish.org?p=76422&title=Service&SelectStyle=Medical Service" title="Medical Service">Medical Service/a>
+                                /li>
+                                li>
+                                    a href="https://afrc.mnd.gov.tw/afrcweb_en/" target="_blank" title="Burial Calendar">Burial Calendar/a>
+                                /li>
+                                li>
+                                    a href="https://museum.mnd.gov.tw/ArmedForcesMuseum2017/En/" target="_blank" title="Armed Forces Museum">Armed Forces Museum/a>
+                                /li>
+                            /ul>
+                        /li>
+                        li>
+                            div class="title">Military Publication/div>
+                            ul class="ul-links">
+                                li>
+                                    a href="Glossary.aspx?title=Military Publication&SelectStyle=Bilingual Glossary" title="Bilingual Glossary">Bilingual Glossary/a>
+                                    
+                                /li>
+                            /ul>
+                        /li>
+                        li>
+                            div class="title">Related Links/div>
+                            ul class="ul-links">
+                                li>
+                                    a href="PublishIframe.aspx?types=Military unit link&title=Related Links&SelectStyle=Military unit link" title="Military Unit Links">Military Unit Links/a>
+                                /li>
+                                li>
+                                    a href="PublishIframe.aspx?types=Defense Related Organization&title=Related Links&SelectStyle=Defense Related Organization" title="Defense Related Organization">Defense Related Organization/a>
+                                /li>
+                                li>
+                                    a href="https://gazette.nat.gov.tw/egFront/indexEng.do" target="_blank" title="The Executive Yuan Gazette Online">The Executive Yuan Gazette Online/a>
+                                /li>
+                                li>
+                                    a href="publishiframe.aspx?types=English Database Platform&title=Related Links" class="lastli" title="English Database Platform">English Database Platform/a>
+                                /li>
+                            /ul>
+                        /li>
+                    /ul>
+                /div>
+            /div>
+            !-- ===========  fatfooter 
+            footer class="en-footer">
+                div class="box960">
+                    ul class="footerlink">
+                        li>a href="Publish.aspx?p=75633">Privacy Policy/a>/li>
+                        li>a href="Publish.aspx?p=75634">Security Policy/a>/li>
+                        li>a href="Publish.aspx?p=75148">Open Government Declaration/a>/li>
+                    /ul>
+                    ul class="footeraddress">
+                        li>Last Update:109/10/15
+                            a href="https://mailbox.mnd.gov.tw">Contact Us/a>
+                        /li>
+                        li>Office Address ： No.409, Bei’an Rd., Zhongshan Dist., Taipei City 10462, Taiwan (R.O.C.)/li>
+                        li>Phone ： (+886) 2-2311-6117 Best viewed With Chrome/li>
+                        li>Copyright © 2020 Ministry of National Defense. All rights reserved/li>
+                    /ul>
+                    div class="accessible">
+                        img src="img/accessibility.jpg" alt="Double A Accessibility Icon">
+                    /div>
+                /div>
+            /footer>
+        /div>
+
+
+
+
+
+
+    /form>
+
+
+
+
+    script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'README.ping, 'auto');
+        ga('send', 'pageview');
+    /script>
+    !-- Global site tag (gtag.js) - Google Analytics 
+    script async src="https://www.googletagmanager.com/gtag/js?id=UA-117688925-1">/script>
+    script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-117688925-1');
+    /script>
+/body>
+script src="js/jquery-3.3.1.min.js">/script>
+script src="js/bootstrap3.3.7.js">/script>
+script src="js/flickity-docs.min.js">/script>
+script src="js/main.js">/script>
+/html>

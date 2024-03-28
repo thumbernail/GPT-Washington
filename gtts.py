@@ -3,7 +3,7 @@ import os
 from playsound import playsound
 import gtts
 
-from autogpt.speech.base import VoiceBase
+from text import VoiceBase
 
 
 class GTTSVoice(VoiceBase):
