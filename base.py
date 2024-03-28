@@ -2,7 +2,7 @@
 import abc
 from threading import Lock
 
-from autogpt.config import AbstractSingleton
+from text import AbstractSingleton
 
 
 class VoiceBase(AbstractSingleton):

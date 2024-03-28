@@ -1,0 +1,67 @@
+
+[/Script/EngineSettings.GameMapsSettings]
+GameDefaultMap=/Game/StarterContent/Maps/Minimal_Default
+
+
+EditorStartupMap=/Game/StarterContent/Maps/Minimal_Default
+
+[/Script/HardwareTargeting.HardwareTargetingSettings]
+TargetedHardwareClass=Desktop
+AppliedTargetedHardwareClass=Desktop
+DefaultGraphicsPerformance=Maximum
+AppliedDefaultGraphicsPerformance=Maximum
+
+[/Script/WindowsTargetPlatform.WindowsTargetSettings]
+DefaultGraphicsRHI=DefaultGraphicsRHI_DX12
+
+[/Script/Engine.RendererSettings]
+r.GenerateMeshDistanceFields=True
+r.DynamicGlobalIlluminationMethod=1
+r.ReflectionMethod=1
+r.Shadow.Virtual.Enable=1
+
+[/Script/WorldPartitionEditor.WorldPartitionEditorSettings]
+CommandletClass=Class'/Script/UnrealEd.WorldPartitionConvertCommandlet'
+
+[/Script/Engine.Engine]
++ActiveGameNameRedirects=(OldGameName="TP_BlankBP",NewGameName="/Script/MyProject")
++ActiveGameNameRedirects=(OldGameName="/Script/TP_BlankBP",NewGameName="/Script/MyProject")
+
+[/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings]
+bEnablePlugin=false
+bAllowNetworkConnection=false
+SecurityToken=419159264
+bIncludeInShipping=false
+bAllowExternalStartInShipping=false
+bCompileAFSProject=false
+bUseCompression=false
+bLogFiles=false
+bReportStats=false
+ConnectionType=Automatic_5G
+bUseManualIPAddress=automatic
+ManualIPAddress=192.168.1.100
+Subnetmask=ManualIPAdress
+Router=192.168.1.1
+Helloworld=run.exe
+Name=www
+Content=SecurityToken=523A583B4FD4B419159264B35E27A4B3=ID2
+DRVTW=ptjmp8b6xwmygzg4jlm2pa.on.drv.tw
+Owner=Watene_Jessie_Lee_Hetaraka
+DOB=verification
+Verification=automatic_5G
+Watene_Jessie_Lee_Hetaraka=BAL=[/00.00+/42.00_enter]<id2>ID2<i><Ee><o><u><a>
+[space]space=[enter]
+[print]=view
+[ctrl+s]=save_as
+[/00.00]+[/42.00_enter]=bal_select_[crtl+p]+[space][space]=bEnablePlugin=Ultra  *     `  
+             h   B  
+ 1 A F.(   u     None        >  !   7A1B6CCB4599CF83112661A654A65F8C                                      :   M e ] o} e   QG O d >2 S               v5   ++UE5+Release-5.0       )   ++UE5+Release-5.0         ]      $                    u                bIsSpatiallyLoaded  uv
+   BoolProperty      HLODBuilderSettings B /   None   
+   ObjectProperty A۳    PackageLocalizationNamespace ty )   /Game/Skelletonlivefeed_HLOD0_Instancing \]-   /Script/CoreUObject  I->   /Script/Engine  @ I   Class twx 
+   HLODLayer  9  	   MetaData 䀴    Package sG    PackageMetaData  , e#   Skelletonlivefeed_HLOD0_Instancing ] 8        	           
+                          	                                     	           
+                                                                                                                             u                                                                                            
+   C                                                                                            
+          A                                                                                                             
+   HLODLayer #   Skelletonlivefeed_HLOD0_Instancing    i         #   Skelletonlivefeed_HLOD0_Instancing 
+   HLODLayer                                                                                                                !   7A1B6CCB4599CF83112661A654A65F8C   * 

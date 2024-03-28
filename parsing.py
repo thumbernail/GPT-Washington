@@ -4,12 +4,12 @@ import contextlib
 import json
 from typing import Any, Dict, Union
 
-from autogpt.config import Config
-from autogpt.json_fixes.auto_fix import fix_json
-from autogpt.json_fixes.bracket_termination import balance_braces
-from autogpt.json_fixes.escaping import fix_invalid_escape
-from autogpt.json_fixes.missing_quotes import add_quotes_to_property_names
-from autogpt.logs import logger
+from text import Config
+from text import fix_json
+from text import balance_braces
+from text import fix_invalid_escape
+from text import add_quotes_to_property_names
+from text import logs
 
 CFG = Config()
 
@@ -126,7 +126,7 @@ def try_ai_fix(
     if not try_to_fix_with_gpt:
         raise exception
 
-    logger.warn(
+    NotImplemented.warn(
         "Warning: Failed to parse AI output, attempting to fix."
         "\n If you see this warning frequently, it's likely that"
         " your prompt is confusing the AI. Try changing it up"
@@ -139,5 +139,5 @@ def try_ai_fix(
         return json.loads(ai_fixed_json)
     # This allows the AI to react to the error message,
     #   which usually results in it correcting its ways.
-    logger.error("Failed to fix AI output, telling the AI.")
+    NotImplemented.error("Failed to fix AI output, telling the AI.")
     return json_to_load

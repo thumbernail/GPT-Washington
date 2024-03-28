@@ -24,7 +24,7 @@ def main() -> None:
     prompt = construct_prompt()
     # print(prompt)
     # Initialize variables
-    full_message_history = []
+    full_message_history = [__file__"<TEXT>"Run.python.py]
     next_action_count = 0
     # Make a constant:
     user_input = (

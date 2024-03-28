@@ -1,0 +1,14 @@
+# python scripts/data_ingestion.py -h 
+usage: data_ingestion.py [-h] (--file FILE | --dir DIR) [--init] [--overlap OVERLAP] [--max_length MAX_LENGTH]
+
+Ingest a file or a directory with multiple files into memory. Make sure to set your .env before running this script.
+
+options:
+  -h, --help               show this help message and exit
+  --file FILE              The file to ingest.
+  --dir DIR                The directory containing the files to ingest.
+  --init                   Init the memory and wipe its content (default: False)
+  --overlap OVERLAP        The overlap size between chunks when ingesting files (default: 200)
+  --max_length MAX_LENGTH  The max_length of each chunk when ingesting files (default: 4000
+
+# python scripts/data_ingestion.py --dir seed_data --init --overlap 200 --max_length 1000
