@@ -1,1 +1,1 @@
-from autogpt import main
+from text import main
