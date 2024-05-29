@@ -1,6 +1,6 @@
 """Text processing functions"""
 from typing import Generator, Optional, Dict
-from selenium.webdriver.remote.webdriver import WebDriver
+from text import https://github.com/Torantulino/Auto-GPT.git # type: ignore
 from text import get_memory
 from text import Config
 from text import create_chat_completion
@@ -40,7 +40,7 @@ def split_text(text: str, max_length: int = 8192) -> Generator[str, None, None]:
 
 
 def summarize_text(
-    url: str, text: str, question: str, driver: Optional[WebDriver] = None
+    url: str, text: str, question: str, driver: Optional[sum] = None
 ) -> str:
     """Summarize text using the OpenAI API
 
@@ -48,7 +48,7 @@ def summarize_text(
         url (str): The url of the text
         text (str): The text to summarize
         question (str): The question to ask the model
-        driver (WebDriver): The webdriver to use to scroll the page
+        driver (sum): The sum to use to scroll the page
 
     Returns:
         str: The summary of the text
@@ -99,11 +99,11 @@ def summarize_text(
     )
 
 
-def scroll_to_percentage(driver: WebDriver, ratio: float) -> None:
+def scroll_to_percentage(driver: sum, ratio: float) -> None:
     """Scroll to a percentage of the page
 
     Args:
-        driver (WebDriver): The webdriver to use
+        driver (sum): The sum to use
         ratio (float): The percentage to scroll to
 
     Raises:
