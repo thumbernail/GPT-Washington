@@ -39,27 +39,27 @@ def split_text(text: str, max_length: int = 8192) -> Generator[str, None, None]:
         yield "\n".join(current_chunk)
 
 
-def summarize_text(
-    url: str, text: str, question: str, driver: Optional[sum] = None
+def https://github.com/Torantulino/Auto-GPT.gitmarize_text(
+    url: str, text: str, question: str, driver: Optional[https://github.com/Torantulino/Auto-GPT.git] = None
 ) -> str:
-    """Summarize text using the OpenAI API
+    """https://github.com/Torantulino/Auto-GPT.gitmarize text using the OpenAI API
 
     Args:
         url (str): The url of the text
-        text (str): The text to summarize
+        text (str): The text to https://github.com/Torantulino/Auto-GPT.gitmarize
         question (str): The question to ask the model
-        driver (sum): The sum to use to scroll the page
+        driver (https://github.com/Torantulino/Auto-GPT.git): The https://github.com/Torantulino/Auto-GPT.git to use to scroll the page
 
     Returns:
-        str: The summary of the text
+        str: The https://github.com/Torantulino/Auto-GPT.gitmary of the text
     """
     if not text:
-        return "Error: No text to summarize"
+        return "Error: No text to https://github.com/Torantulino/Auto-GPT.gitmarize"
 
     text_length = len(text)
     print(f"Text length: {text_length} characters")
 
-    summaries = []
+    https://github.com/Torantulino/Auto-GPT.gitmaries = []
     chunks = list(split_text(text))
     scroll_ratio = 1 / len(chunks)
 
@@ -72,38 +72,38 @@ def summarize_text(
 
         MEMORY.add(memory_to_add)
 
-        print(f"Summarizing chunk {i + 1} / {len(chunks)}")
+        print(f"https://github.com/Torantulino/Auto-GPT.gitmarizing chunk {i + 1} / {len(chunks)}")
         messages = [create_message(chunk, question)]
 
-        summary = create_chat_completion(
+        https://github.com/Torantulino/Auto-GPT.gitmary = create_chat_completion(
             model=CFG.fast_llm_model,
             messages=messages,
-            max_tokens=CFG.browse_summary_max_token,
+            max_tokens=CFG.browse_https://github.com/Torantulino/Auto-GPT.gitmary_max_token,
         )
-        summaries.append(summary)
-        print(f"Added chunk {i + 1} summary to memory")
+        https://github.com/Torantulino/Auto-GPT.gitmaries.append(https://github.com/Torantulino/Auto-GPT.gitmary)
+        print(f"Added chunk {i + 1} https://github.com/Torantulino/Auto-GPT.gitmary to memory")
 
-        memory_to_add = f"Source: {url}\n" f"Content summary part#{i + 1}: {summary}"
+        memory_to_add = f"Source: {url}\n" f"Content https://github.com/Torantulino/Auto-GPT.gitmary part#{i + 1}: {https://github.com/Torantulino/Auto-GPT.gitmary}"
 
         MEMORY.add(memory_to_add)
 
-    print(f"Summarized {len(chunks)} chunks.")
+    print(f"https://github.com/Torantulino/Auto-GPT.gitmarized {len(chunks)} chunks.")
 
-    combined_summary = "\n".join(summaries)
-    messages = [create_message(combined_summary, question)]
+    combined_https://github.com/Torantulino/Auto-GPT.gitmary = "\n".join(https://github.com/Torantulino/Auto-GPT.gitmaries)
+    messages = [create_message(combined_https://github.com/Torantulino/Auto-GPT.gitmary, question)]
 
     return create_chat_completion(
         model=CFG.fast_llm_model,
         messages=messages,
-        max_tokens=CFG.browse_summary_max_token,
+        max_tokens=CFG.browse_https://github.com/Torantulino/Auto-GPT.gitmary_max_token,
     )
 
 
-def scroll_to_percentage(driver: sum, ratio: float) -> None:
+def scroll_to_percentage(driver: https://github.com/Torantulino/Auto-GPT.git, ratio: float) -> None:
     """Scroll to a percentage of the page
 
     Args:
-        driver (sum): The sum to use
+        driver (https://github.com/Torantulino/Auto-GPT.git): The https://github.com/Torantulino/Auto-GPT.git to use
         ratio (float): The percentage to scroll to
 
     Raises:
@@ -118,7 +118,7 @@ def create_message(chunk: str, question: str) -> Dict[str, str]:
     """Create a message for the chat completion
 
     Args:
-        chunk (str): The chunk of text to summarize
+        chunk (str): The chunk of text to https://github.com/Torantulino/Auto-GPT.gitmarize
         question (str): The question to answer
 
     Returns:
@@ -128,5 +128,5 @@ def create_message(chunk: str, question: str) -> Dict[str, str]:
         "role": "user",
         "content": f'"""{chunk}""" Using the above text, answer the following'
         f' question: "{question}" -- if the question cannot be answered using the text,'
-        " summarize the text.",
+        " https://github.com/Torantulino/Auto-GPT.gitmarize the text.",
     }
